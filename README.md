@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmkitch
-- 👀 I’m interested in java, python, and dynamical systems
-- 🌱 I’m currently pursuing a scientific computer or programming career
+- 👀 I’m interested in Python, C, Java, and Numerical Modelling
+- 🌱 I’m currently pursuing a scientific computing, programming, or statistical career
 - 💞️ I’m looking to collaborate any scientific or mathematical project
 
 <!---
